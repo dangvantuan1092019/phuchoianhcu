@@ -1,0 +1,5 @@
+{
+  "name": "PHỤC HỒI ẢNH CŨ",
+  "description": "Ứng dụng sử dụng AI để phục hồi và cải thiện ảnh cũ. Người dùng có thể tải ảnh lên và đưa ra yêu cầu bằng văn bản để hướng dẫn quá trình phục hồi, sửa chữa và tô màu cho những bức ảnh cũ.",
+  "requestFramePermissions": []
+}
